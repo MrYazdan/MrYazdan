@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome 😉 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYazdan&color=blue" alt="Profile_views"> </p>
-<img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/master/tech.gif?raw=true"/>
+<img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/main/tech.gif?raw=true"/>
 
 - 🌱  &nbsp;I’m currently learning **VueJS, NodeJS, LPIC 2**
 

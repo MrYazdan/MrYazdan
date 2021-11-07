@@ -22,6 +22,7 @@
 ![Vue JS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![LPIC 1](https://img.shields.io/badge/-LPIC%201-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 

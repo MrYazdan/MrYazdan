@@ -28,12 +28,4 @@
 <br>
 
 ## 📞 &nbsp;Contact Me
-
-<p align="left">
-  <a href="https://instagram.com/mrrezayazdani" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mrrezayazdani-blueviolet?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://t.me/mrrezayazdani" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mrrezayazdani-blue?style=flat&logo=telegram" alt="telegram"/>
-</a>
-</p>
+[![](https://img.shields.io/badge/-mrrezayazdani-blue?style=flat&logo=telegram)](https://t.me/mrrezayazdani)

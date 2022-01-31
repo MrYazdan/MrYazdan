@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYazdan&color=blue" alt="Profile_views"> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/main/tech.gif?raw=true"/>
 
-- 🌱  &nbsp;I’m currently learning **VueJS, NodeJS, ExpressJS**
+- 🌱  &nbsp;I’m currently learning **NodeJS, ExpressJS**
 
 - 💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
 

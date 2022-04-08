@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYazdan&color=blue" alt="Profile_views"> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/main/tech.gif?raw=true"/>
 
-- 🌱  &nbsp;I’m currently learning **LPIC2, **
+- 🌱  &nbsp;I’m currently learning **LPIC2, SANS SEC-580 MSF**
 
 - 💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
 

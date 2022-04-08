@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYazdan&color=blue" alt="Profile_views"> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/main/tech.gif?raw=true"/>
 
-- 🌱  &nbsp;I’m currently learning **NodeJS, ExpressJS**
+- 🌱  &nbsp;I’m currently learning **LPIC2, **
 
 - 💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
 
@@ -22,10 +22,15 @@
 ![Vue JS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![LPIC 1](https://img.shields.io/badge/-LPIC%201-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![SANS SEC542](https://img.shields.io/badge/-SANS_SEC_542-05122A?style=flat&logo=rancher)&nbsp;
+![SANS SEC542](https://img.shields.io/badge/-SANS_SEC_642-05122A?style=flat&logo=rancher)&nbsp;
 
 <br>
 
-## 📞 &nbsp;Contact Me
+<!-- ## 📞 &nbsp;Contact Me
 [![](https://img.shields.io/badge/-mrrezayazdani-blue?style=flat&logo=telegram)](https://t.me/mrrezayazdani)
+ -->

@@ -1,16 +1,23 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYazdan&color=blue" alt="Profile_views"> </p>
-<img align="right" width="300em" height="300em" src="https://github.com/MrYazdan/MrYazdan/blob/main/tech.gif?raw=true"/>
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I'm Yazdan
 
-- 🌱  &nbsp;I’m currently learning **LPIC2, SANS SEC-580 MSF**
-
-- 💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
-
-- ⚡ &nbsp;Fun fact **I ❤️️ Open Source World + ☕** !
-
+<div align="left">
+    <picture align="right">
+        <img align="right" width="340em" height="340em" src="https://raw.github.com/MrYazdan/MrYazdan/main/tech.gif">
+    </picture>
 <br>
+     
+🌱  &nbsp;I’m currently learning **LPIC2, SANS SEC-580 MSF**
 
-## 🛠 &nbsp;Tech Stack
+💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
+
+⚡ &nbsp;**I ❤️️ FSF + Linux + ☕** !
+ 
+ 📫 &nbsp;**Mrrezayazdani@yahoo.com**
+</div>
+
+ <br>
+
+ ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

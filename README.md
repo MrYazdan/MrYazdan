@@ -11,8 +11,6 @@
 💬  &nbsp;Ask me about **Linux 🐧** | **Python 🐍**
 
 ⚡ &nbsp;**I ❤️️ FSF + Linux + ☕** !
- 
- 📫 &nbsp;**Mrrezayazdani@yahoo.com**
 </div>
 
  <br>
